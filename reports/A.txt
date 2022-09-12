@@ -1,0 +1,43 @@
+Date Of Admission:  18-04-22 01:34:50 
+Patient Id:  4 
+Patient Name:   Aditya 
+Patient Address:   Abc@gaj.com 
+Patient Phone No:   9876543210 
+Patient Age:   18 
+Any Major Disease Suffered Earlier:   Corona  
+Patient Gender:   Male 
+Patient Blood Group:   O 
+
+
+****************More Info**************** 
+
+Date Of Added Extra Information:  18-04-22 01:36:31 
+Docter Appointed:   Mr. Rudresh 
+Symptoms:   Abc 
+Diagnosis:   Xyz 
+Medicines:   Condom 
+Admission Required:   No
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 18-04-22 01:37:56  
+Number Of Days Patient Stayed:   2 
+Ward Charges Per Day:   50 
+Total Ward Charges:   Total Ward Cherges Is: 100 
+Docters Fees:   100 
+Service Fee:   50 
+
+ Total Bill:   150
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 18-04-22 01:38:38  
+Number Of Days Patient Stayed:   2 
+Ward Charges Per Day:   50 
+Total Ward Charges:   Total Ward Cherges Is: 100 
+Docters Fees:   100 
+Service Fee:   50 
+
+ Total Bill:   150

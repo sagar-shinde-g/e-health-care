@@ -1,0 +1,115 @@
+Date Of Admission:  15-04-22 03:44:44 
+Patient Id:  1 
+Patient Name:   Shinde Sagar Govind 
+Patient Address:   Masalga, Tq Nilnga,dist Latur 
+Patient Phone No:   9876543210 
+Patient Age:   20 
+Any Major Disease Suffered Earlier:   Corona In Past Year 2020-22 
+Patient Gender:   Male 
+Patient Blood Group:   O 
+
+
+****************More Info**************** 
+
+Date Of Added Extra Information:  15-04-22 03:46:05 
+Docter Appointed:   Miss Kulkarni 
+Symptoms:   Nno Any Disease 
+Diagnosis:   Need Your Love Forever 
+Medicines:   No Medines Need......only X_ray Need 
+Admission Required:   No
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 15-04-22 03:46:57  
+Number Of Days Patient Stayed:   0 
+Ward Charges Per Day:   100 
+Total Ward Charges:   Total Ward Cherges Is: 0 
+Docters Fees:   100 
+Service Fee:   30 
+
+ Total Bill:   130
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 15-04-22 03:47:04  
+Number Of Days Patient Stayed:   0 
+Ward Charges Per Day:   100 
+Total Ward Charges:   Total Ward Cherges Is: 0 
+Docters Fees:   100 
+Service Fee:   30 
+
+ Total Bill:   130
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 15-04-22 03:47:48  
+Number Of Days Patient Stayed:   233 
+Ward Charges Per Day:   2343 
+Total Ward Charges:   Total Ward Cherges Is: 545919 
+Docters Fees:   33 
+Service Fee:   43 
+
+ Total Bill:   76
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 15-04-22 03:47:49  
+Number Of Days Patient Stayed:   233 
+Ward Charges Per Day:   2343 
+Total Ward Charges:   Total Ward Cherges Is: 545919 
+Docters Fees:   33 
+Service Fee:   43 
+
+ Total Bill:   76
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 15-04-22 03:47:49  
+Number Of Days Patient Stayed:   233 
+Ward Charges Per Day:   2343 
+Total Ward Charges:   Total Ward Cherges Is: 545919 
+Docters Fees:   33 
+Service Fee:   43 
+
+ Total Bill:   76
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 15-04-22 03:47:49  
+Number Of Days Patient Stayed:   233 
+Ward Charges Per Day:   2343 
+Total Ward Charges:   Total Ward Cherges Is: 545919 
+Docters Fees:   33 
+Service Fee:   43 
+
+ Total Bill:   76
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 15-04-22 03:47:49  
+Number Of Days Patient Stayed:   233 
+Ward Charges Per Day:   2343 
+Total Ward Charges:   Total Ward Cherges Is: 545919 
+Docters Fees:   33 
+Service Fee:   43 
+
+ Total Bill:   76
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 15-04-22 03:47:49  
+Number Of Days Patient Stayed:   233 
+Ward Charges Per Day:   2343 
+Total Ward Charges:   Total Ward Cherges Is: 545919 
+Docters Fees:   33 
+Service Fee:   43 
+
+ Total Bill:   76

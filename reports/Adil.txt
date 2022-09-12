@@ -1,0 +1,9 @@
+Date Of Admission:  20-04-22 01:31:24 
+Patient Id:  6 
+Patient Name:   Adil 
+Patient Address:   Adil@gmail.com 
+Patient Phone No:   7968534879 
+Patient Age:   18 
+Any Major Disease Suffered Earlier:   Hdv 
+Patient Gender:   Male 
+Patient Blood Group:   A 

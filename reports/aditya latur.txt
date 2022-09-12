@@ -1,0 +1,33 @@
+Date Of Admission:  25-04-22 12:50:56 
+Patient Id:  8 
+Patient Name:   Adi Gambhire 
+Patient Address:   Near Agrasen Bhavan, Zingnappa Galli, Latur 
+Patient Phone No:   0942 377 6142 
+Patient Age:   12 
+Any Major Disease Suffered Earlier:   Fsxghfs 
+Patient Gender:   Male 
+Patient Blood Group:   A 
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 25-04-22 12:51:53  
+Number Of Days Patient Stayed:   5 
+Ward Charges Per Day:   14 
+Total Ward Charges:   Total Ward Cherges Is: 70 
+Docters Fees:   100 
+Service Fee:   50 
+
+ Total Bill:   150
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 25-04-22 12:54:58  
+Number Of Days Patient Stayed:   5 
+Ward Charges Per Day:   14 
+Total Ward Charges:   Total Ward Cherges Is: 70 
+Docters Fees:   100 
+Service Fee:   50 
+
+ Total Bill:   150

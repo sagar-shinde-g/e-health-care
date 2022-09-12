@@ -1,0 +1,9 @@
+Date Of Admission:  21-04-22 01:52:01 
+Patient Id:  7 
+Patient Name:   Dube S M 
+Patient Address:   Sarswati Colony 
+Patient Phone No:   9845124545 
+Patient Age:   45 
+Any Major Disease Suffered Earlier:   SUFEERED FROM CANCER 
+Patient Gender:   Male 
+Patient Blood Group:   O 

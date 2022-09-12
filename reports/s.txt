@@ -1,0 +1,9 @@
+Date Of Admission:  25-04-22 11:09:13 
+Patient Id:  9 
+Patient Name:   सागर शिंदे 
+Patient Address:   Masalga Tq Nilanga Dist Latur 
+Patient Phone No:   09730220726 
+Patient Age:   85 
+Any Major Disease Suffered Earlier:   मला तुझ्यावर प्यार झालाय 
+Patient Gender:   Male 
+Patient Blood Group:   A+ 

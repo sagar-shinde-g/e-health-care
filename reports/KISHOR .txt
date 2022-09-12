@@ -1,0 +1,14 @@
+Date Of Admission:  18-05-22 12:36:53 
+Patient Id:  11 
+Patient Name:   GAIKWAD 
+Patient Address:   LATUR 
+Patient Phone No:   9307181758 
+Patient Age:   18 
+Any Major Disease Suffered Earlier:   FEVER
+
+
+
+
+ 
+Patient Gender:   Male 
+Patient Blood Group:   A+ 

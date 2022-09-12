@@ -1,0 +1,9 @@
+Date Of Admission:  23-05-22 12:22:27 
+Patient Id:  15 
+Patient Name:   Rushikesh Sawant 
+Patient Address:   Aurangabad 
+Patient Phone No:   7219419403 
+Patient Age:   22 
+Any Major Disease Suffered Earlier:   IBS 
+Patient Gender:   Male 
+Patient Blood Group:   O- 

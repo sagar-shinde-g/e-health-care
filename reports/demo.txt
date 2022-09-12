@@ -1,0 +1,45 @@
+Date Of Admission:  22-05-22 12:56:08 
+Patient Id:  13 
+Patient Name:   Tony Stark 
+Patient Address:   Tony Stark 
+Patient Phone No:   9876543210 
+Patient Age:   40 
+Any Major Disease Suffered Earlier:   NO Any Disease 
+Patient Gender:   Male 
+Patient Blood Group:   O+ 
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 22-05-22 01:03:16  
+Number Of Days Patient Stayed:   16 
+Ward Charges Per Day:   200 
+Total Ward Charges:   Total Ward Cherges Is: 3200 
+Docters Fees:   2000 
+Service Fee:   100 
+
+ Total Bill:   Total Bill Is: 5300
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 22-05-22 01:03:16  
+Number Of Days Patient Stayed:   16 
+Ward Charges Per Day:   200 
+Total Ward Charges:   Total Ward Cherges Is: 3200 
+Docters Fees:   2000 
+Service Fee:   100 
+
+ Total Bill:   Total Bill Is: 5300
+
+
+****************Bill Info**************** 
+
+Date Of Added Bill Information: 22-05-22 01:04:55  
+Number Of Days Patient Stayed:   16 
+Ward Charges Per Day:   200 
+Total Ward Charges:   Total Ward Cherges Is: 3200 
+Docters Fees:   2000 
+Service Fee:   100 
+
+ Total Bill:   Total Bill Is: 5300

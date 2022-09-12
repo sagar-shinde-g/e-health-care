@@ -1,0 +1,9 @@
+Date Of Admission:  22-05-22 12:57:26 
+Patient Id:  14 
+Patient Name:   Koj 
+Patient Address:   Jipij 
+Patient Phone No:   9998760987 
+Patient Age:   908 
+Any Major Disease Suffered Earlier:   Ftrd 
+Patient Gender:   Female 
+Patient Blood Group:   A+ 

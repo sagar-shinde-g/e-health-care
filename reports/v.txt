@@ -1,0 +1,19 @@
+Date Of Admission:  21-05-22 08:43:35 
+Patient Id:  12 
+Patient Name:   Vikas Mandle 
+Patient Address:   Vikas@gmail.com 
+Patient Phone No:   9876543210 
+Patient Age:   22 
+Any Major Disease Suffered Earlier:   Corona 
+Patient Gender:   Male 
+Patient Blood Group:   O+ 
+
+
+****************More Info**************** 
+
+Date Of Added Extra Information:  21-05-22 08:45:22 
+Docter Appointed:   Mrs. Abc  
+Symptoms:   KhokLA,sardi,tap 
+Diagnosis:   Tapichi Goli,sandaschi Goli 
+Medicines:   Dxcvbnm,mnb  
+Admission Required:   Yes

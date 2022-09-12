@@ -1,0 +1,19 @@
+Date Of Admission:  19-04-22 12:00:04 
+Patient Id:  5 
+Patient Name:   Yogesh Suryavanshi 
+Patient Address:   Abc@gmsol.com 
+Patient Phone No:   9876543210 
+Patient Age:   19 
+Any Major Disease Suffered Earlier:   Corona + 
+Patient Gender:   Male 
+Patient Blood Group:   O 
+
+
+****************More Info**************** 
+
+Date Of Added Extra Information:  19-04-22 12:01:12 
+Docter Appointed:   Dr. Kulkarni 
+Symptoms:   Abc 
+Diagnosis:   Xyz 
+Medicines:   Conndom 
+Admission Required:   Yes

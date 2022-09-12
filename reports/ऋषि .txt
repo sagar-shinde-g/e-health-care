@@ -1,0 +1,9 @@
+Date Of Admission:  15-04-22 07:46:44 
+Patient Id:  3 
+Patient Name:   Sawant Rushikesh 
+Patient Address:   Rushikeshs634@gmail .com 
+Patient Phone No:   7057761521 
+Patient Age:   19 
+Any Major Disease Suffered Earlier:   Ibs 
+Patient Gender:   Male 
+Patient Blood Group:   A 
